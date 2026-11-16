@@ -1,0 +1,6 @@
+{
+  "name": "Kanto Arena 3D",
+  "description": "A Generation 1 Pokémon 3D battle arena built with XR Blocks and procedural Three.js models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
